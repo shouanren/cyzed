@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "Jumuiya",
+	"current_languages": "Lugha za sasa",
+	"cancel": "Ghairi",
+	"close": "Funga",
+	"dropdown_menu_with_languages": "Menyu kunjuzi yenye lugha",
+	"machine": "Mashine",
+	"official": "Rasmi",
+	"plan": "Mpango",
+	"view_all_games": "Tazama michezo yote"
+}

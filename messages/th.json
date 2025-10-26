@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "ชุมชน",
+	"current_languages": "ภาษาปัจจุบัน",
+	"cancel": "ยกเลิก",
+	"close": "ปิด",
+	"dropdown_menu_with_languages": "เมนูแบบดรอปดาวน์พร้อมภาษาต่างๆ",
+	"machine": "เครื่องจักร",
+	"official": "เป็นทางการ",
+	"plan": "วางแผน",
+	"view_all_games": "ดูเกมทั้งหมด"
+}

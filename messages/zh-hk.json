@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "社群",
+	"current_languages": "目前語言",
+	"cancel": "取消",
+	"close": "關閉",
+	"dropdown_menu_with_languages": "帶有語言的下拉式選單",
+	"machine": "機器",
+	"official": "官方的",
+	"plan": "計劃",
+	"view_all_games": "看所有遊戲"
+}

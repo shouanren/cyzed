@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "コミュニティ",
+	"current_languages": "現在の言語",
+	"cancel": "キャンセル",
+	"close": "近い",
+	"dropdown_menu_with_languages": "言語のドロップダウンメニュー",
+	"machine": "機械",
+	"official": "正式",
+	"plan": "プラン",
+	"view_all_games": "すべてのゲームを表示"
+}

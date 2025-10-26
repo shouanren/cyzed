@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "Cộng đồng",
+	"current_languages": "Ngôn ngữ hiện tại",
+	"cancel": "Hủy bỏ",
+	"close": "Đóng",
+	"dropdown_menu_with_languages": "Menu thả xuống với các ngôn ngữ",
+	"machine": "Máy móc",
+	"official": "Chính thức",
+	"plan": "Kế hoạch",
+	"view_all_games": "Xem tất cả các trò chơi"
+}

@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "সম্প্রদায়",
+	"current_languages": "বর্তমান ভাষাসমূহ",
+	"cancel": "বাতিল করুন",
+	"close": "বন্ধ করা",
+	"dropdown_menu_with_languages": "ভাষা সহ ড্রপডাউন মেনু",
+	"machine": "মেশিন",
+	"official": "অফিসিয়াল",
+	"plan": "পরিকল্পনা",
+	"view_all_games": "সব খেলা দেখুন"
+}

@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "برادری",
+	"current_languages": "موجودہ زبانیں",
+	"cancel": "منسوخ کریں۔",
+	"close": "بند",
+	"dropdown_menu_with_languages": "زبانوں کے ساتھ ڈراپ ڈاؤن مینو",
+	"machine": "مشین",
+	"official": "سرکاری",
+	"plan": "منصوبہ",
+	"view_all_games": "تمام گیمز دیکھیں"
+}

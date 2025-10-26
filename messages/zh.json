@@ -1,0 +1,13 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "社区",
+	"current_languages": "当前语言",
+	"cancel": "取消",
+	"close": "关闭",
+	"dropdown_menu_with_languages": "带有语言的下拉菜单",
+	"machine": "机器",
+	"official": "官方的",
+	"plan": "计划",
+	"view_all_games": "查看所有游戏",
+	"web_disclaimer": "这是一份关于游戏《鸣潮》的非官方资源，由库洛游戏提供，用于增强玩家和用户体验。"
+}

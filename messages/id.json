@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "Masyarakat",
+	"current_languages": "Bahasa saat ini",
+	"cancel": "Membatalkan",
+	"close": "Menutup",
+	"dropdown_menu_with_languages": "Menu tarik-turun dengan bahasa",
+	"machine": "Mesin",
+	"official": "Resmi",
+	"plan": "Rencana",
+	"view_all_games": "Lihat semua game"
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "community": "Gemeinschaft",
+  "current_languages": "Aktuelle Sprachen",
+  "cancel": "Stornieren",
+  "close": "Schließen",
+  "dropdown_menu_with_languages": "Dropdown-Menü mit Sprachen",
+  "machine": "Maschine",
+  "official": "Offiziell",
+  "plan": "Planen",
+  "view_all_games": "Alle Spiele anzeigen"
+}

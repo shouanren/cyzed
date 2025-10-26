@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "కమ్యూనిటీ",
+	"current_languages": "ప్రస్తుత భాషలు",
+	"cancel": "రద్దు చేయి",
+	"close": "ముగింపు / ముగింపు",
+	"dropdown_menu_with_languages": "భాషలతో డ్రాప్‌డౌన్ మెనూ",
+	"machine": "యంత్రం",
+	"official": "అధికారిక",
+	"plan": "ప్లాన్ చేయండి",
+	"view_all_games": "అన్ని ఆటలను చూడండి"
+}

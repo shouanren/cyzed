@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "مجتمع",
+	"current_languages": "اللغات الحالية",
+	"cancel": "يلغي",
+	"close": "يغلق",
+	"dropdown_menu_with_languages": "القائمة المنسدلة باللغات",
+	"machine": "آلة",
+	"official": "رسمي",
+	"plan": "يخطط",
+	"view_all_games": "عرض جميع الألعاب"
+}

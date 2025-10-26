@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "Toplum",
+	"current_languages": "Güncel diller",
+	"cancel": "İptal etmek",
+	"close": "Kapalı",
+	"dropdown_menu_with_languages": "Dilleri içeren açılır menü",
+	"machine": "Makine",
+	"official": "Resmi",
+	"plan": "Plan",
+	"view_all_games": "Tüm oyunları görüntüle"
+}

@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "جامعه",
+	"current_languages": "زبان‌های فعلی",
+	"cancel": "لغو",
+	"close": "بستن",
+	"dropdown_menu_with_languages": "منوی کشویی با زبان‌ها",
+	"machine": "ماشین",
+	"official": "رسمی",
+	"plan": "طرح",
+	"view_all_games": "مشاهده همه بازی‌ها"
+}

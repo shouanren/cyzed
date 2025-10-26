@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"community": "Komunidad",
+	"current_languages": "Mga kasalukuyang wika",
+	"cancel": "Kanselahin",
+	"close": "Isara",
+	"dropdown_menu_with_languages": "Dropdown na menu na may mga wika",
+	"machine": "Makina",
+	"official": "Opisyal",
+	"plan": "Plano",
+	"view_all_games": "Tingnan ang lahat ng mga laro"
+}

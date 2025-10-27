@@ -60,7 +60,7 @@
 	"pp_changes_text": "Atualizações publicadas aqui com nova data. O uso continuado implica aceitação.",
 	"pp_contact_title": "Contato",
 	"pp_contact_text__": "Para perguntas ou solicitações de dados, contate {_}.",
-	"pp_last_updated": "Última atualização: October 25, 2025",
+	"pp_last_updated": "Última atualização: {day} de {month} de {year}",
 	"tos_title": "Termos de Serviço",
 	"tos_acceptance_title": "Aceitação dos Termos",
 	"tos_acceptance_text": "O uso da plataforma significa concordância com estes Termos. Não use se discordar.",
@@ -90,6 +90,6 @@
 	"tos_changes_text": "Os Termos podem mudar; atualizações publicadas entram em vigor imediatamente. O uso continuado implica aceitação.",
 	"tos_contact_title": "Contato",
 	"tos_contact_text__": "Perguntas? Contate {_}.",
-	"tos_last_updated": "Última atualização: October 26, 2025",
+	"tos_last_updated": "Última atualização: {day} de {month} de {year}",
 	"web_disclaimer": "Este é um recurso não oficial para o jogo Wuthering Waves, da Kuro Games; seus ativos são usados para melhorar a experiência de fãs e jogadores."
 }

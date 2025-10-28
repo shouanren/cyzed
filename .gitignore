@@ -24,5 +24,6 @@ dist-ssr
 *.sw?
 
 bun.lock
+package-lock.json
 
 project.inlang/project_id

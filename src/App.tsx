@@ -1,12 +1,17 @@
-import { createSignal } from 'solid-js';
+import { createEffect, createSignal } from 'solid-js';
 import './App.css';
 import { m } from './paraglide/messages';
 import { locales, getLocale, setLocale } from './paraglide/runtime';
 import type { Locale } from './paraglide/runtime';
 import { LastUpdated } from './components/last-updated';
+import { getTextDir } from './utils/getTextDir';
 
 function App() {
-  const [open, setOpen] = createSignal(false);
+  // const [open, setOpen] = createSignal(false);
+
+  createEffect(() => {
+    document.documentElement.dir = getTextDir(getLocale());
+  });
 
   return (
     <>

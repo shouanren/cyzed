@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
+bun.lock
+
 project.inlang/project_id

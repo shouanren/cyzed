@@ -3,6 +3,7 @@ import './App.css';
 import { m } from './paraglide/messages';
 import { locales, getLocale, setLocale } from './paraglide/runtime';
 import type { Locale } from './paraglide/runtime';
+import { LastUpdated } from './components/last-updated';
 
 function App() {
   const [open, setOpen] = createSignal(false);
@@ -14,18 +15,23 @@ function App() {
         <p>
           {m.current_languages()}({locales.length})
         </p>
-        {locales.map((locale: Locale) =>
-          locale === getLocale() ? (
-            ` ${locale} (current) `
-          ) : (
-            <button onClick={() => setLocale(locale)}>{locale}</button>
-          ),
-        )}
+        <section class="grid grid-cols-4 gap-3">
+          {locales.map((locale: Locale) =>
+            locale === getLocale() ? (
+              <button aria-readonly disabled>{` ${locale} `}</button>
+            ) : (
+              <button onClick={() => setLocale(locale)}>{locale}</button>
+            ),
+          )}
+        </section>
+        <hr />
         <p>Edit a language file in </p>
         <code>{`/messages/{{LANGUAGE}}.tsx`}</code>
         <p>if adding a new language add it in the settings file too:</p>
-        <code>cyzed/project.inlang/settings.json</code>
+        <code>{`/project.inlang/settings.json`}</code>
         <p>create a merge request to merge your changes</p>
+        <hr />
+        <LastUpdated date={new Date(2025, 9, 28)} />
       </div>
       <p class="read-the-docs">
         Visit{' '}
